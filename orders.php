@@ -44,7 +44,7 @@ include'header.php'
         <span class="icon text-white-65">
           <i class="fas fa-edit"></i>
         </span>
-        <span class="text">Seçenekler</span>
+        <span class="text">Seçenekler </span>
       </button>
 
       <div class="mobilgizle gizlemeyiac" style="margin-bottom: 10px;">
